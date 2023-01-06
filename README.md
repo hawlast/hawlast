@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @hawlast
 - 👀 I’m interested in PHP, JSON, Javascript, Andoid apps
-- 🌱 I’m currently learning Java programming 
 - 💞️ I’m looking to collaborate on web applications, mobile apps 
 - 📫 How to reach me on hawlast@gmail.com
 
