@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hawlast
+- 👋 Hi, I’m founder @hawlast 
 - 👀 I’m interested in PHP, JSON and Android apps
 - 💞️ I’m looking to collaborate on web applications, mobile apps 
 - 📫 How to reach me on hawlast@gmail.com
